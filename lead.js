@@ -1,4 +1,4 @@
-// Vercel serverless funksiya: formadagi arizani Telegramga yuboradi
+api/// Vercel serverless funksiya: formadagi arizani Telegramga yuboradi
 // va Meta Conversions API orqali Lead eventini server tomondan jo'natadi.
 //
 // Vercel > Project > Settings > Environment Variables:
